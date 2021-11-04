@@ -1,0 +1,14 @@
+Pseudocode pencarian nilai faktorial
+
+Mulai
+Input angka
+angka >= 0
+Faktorial = angka
+
+While angka > 1 do
+	angka - 1
+	Faktorial * angka
+tampilkan "Nilai faktorial"
+
+Else
+tampilkan "Angka harus bilangan positif!"
