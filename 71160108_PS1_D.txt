@@ -1,0 +1,41 @@
+Untuk soal no 1:
+2021+2022+2023+…+4018+4019+4020 = ?
+
+Jawabannya adalah = 6.041.000
+
+Penjelasan:
+
+Soal: 
+2021+2022+2023+…+4018+4019+4020 = ?
+
+Dari soal diatas dapat diketahui:
+a = 2021
+b = 1 (2022 - 2021)
+un = 4020
+
+Sedangkan yang ditanyakan adalah SN
+
+Pengerjaan:
+Dari yang telah kita ketahui (a,b, dan Un) dilakukan pencarian untuk mencari n terlebih dahulu.
+Dengan cara menggunkan rumus: Un = a+(n-1)b
+kemudian dilakukan penyelesaian:
+
+Un = a+(n-1)b
+4020 = 2021 + (n-1) 1
+4020 = 2021 + n - 1
+4020 = 2020 + n
+4020 - 2020 = n
+2000 = n
+Sehingga kita peroleha bahwa U2000 = 4020.
+
+Setelah itu kita akan mencari nilai dari S2000, dengan menggunakan rumus: Sn = n/2 (2a + (n-1)b)
+Dengan cara penyelesaian:
+
+Sn = n/2 (2a + (n-1)b)
+S2000 = 2000/2 (2 x 2021 + (2000 - 1) 1)
+S2000 = 1000 (4042 + 1999)
+S2000 = 1000 (6041)
+S2000 = 6.041.000
+
+Sehingga untuk soal no 1 diperoleh jawaban: 6.041.000
+
