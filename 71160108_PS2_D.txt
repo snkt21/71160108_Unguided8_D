@@ -1,0 +1,8 @@
+Untuk soal no 2, dari ke-7 buah gelas kosong yang diisi dengan air gelas yang akan terisi lebih dahulu adalah gelas no 2.
+
+Penjelasan: 
+1. alasannya untuk gelas no 1, 6, dan 7 tidak akan terisi dikarenakan jalur atau pipa untuk mengisi ketiga gelas tersebut buntu, sehingga ketiga gelas tersebut tidak akan pernah terisi.
+
+2. Kemudian untuk gelas nomor 3, walaupun memiliki posisi yang sama dengan gelas no 2 namun letak pipa atau jalur berada diatas pipa gelas no 2. Sehingga gelas no 2 yang akan duluan terisi dibandingkan gelas no 3.
+
+3. Terakhir untuk gelas no 4 dan 5 sama seperti gelas no 3, posisi jalur atau pipa untuk mengisi kedua gelas tersebut berada jauh diatas pipa untuk mengisi gelas no 2. Sehingga gelas no 2 akan terisi lebih dahulu dibandingkan kedua gelas tersebut (gelas no 4 dan no 5)
